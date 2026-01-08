@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickJTutt
 - 👀 I’m interested in HomeAutomation, Dashboard Building, Data Analysis, Learning.
 - 🌱 I’m currently learning Python, PowerBI, HomeAssistant, Arduino, NodeRed
-- 💞️ I’m looking to collaborate on not much at the moment - busy finding my way into a project or two
+- 💞️ I’m finding my way into a project or two
 - 📫 How to reach me nicholas.tutt@gmil.com
 
 <!---
