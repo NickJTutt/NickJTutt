@@ -2,7 +2,7 @@
 - 👀 I’m interested in HomeAutomation, Dashboard Building, Data Analysis, Learning.
 - 🌱 I’m currently learning Python, PowerBI, HomeAssistant, Arduino, NodeRed
 - 💞️ I’m finding my way into a project or two
-- 📫 How to reach me nicholas.tutt@gmil.com
+- 📫 How to reach me -----
 
 <!---
 NickJTutt/NickJTutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
